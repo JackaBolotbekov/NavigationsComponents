@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/cubeFragment"
+        android:icon="@drawable/ic_baseline_looks_one_24"
+        android:title="@string/one"/>
+
+    <item android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_baseline_looks_two_24"
+        android:title="@string/two"/>
+
+    <item android:id="@+id/webFragment"
+        android:icon="@drawable/ic_baseline_looks_3_24"
+        android:title="@string/three"/>
+
+</menu>
